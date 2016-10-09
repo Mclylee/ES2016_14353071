@@ -24,5 +24,9 @@
 #### The environment for DOL development has been successfully built !
 
 ###Experimental experience
-    This experiment has me know the foundamental knowledge of DOL, including what is DOL and how to build a environment for DOL developing. Moreover, I also learn to use a github to reserve my experiment results and update my learining progress, maybe even share my experiences with the others in the near future. I also become to how what "markdown" is and begin to  type some words with this kind of language, like this article.Quite a beginning.
+    This experiment has me know the foundamental knowledge of DOL, including what is DOL and how to 
+    build a environment for DOL developing. Moreover, I also learn to use a github to reserve my
+    experiment results and update my learining progress, maybe even share my experiences with the
+    others in the near future. I also become to what "markdown" is and begin to  type some words with this
+    kind of language, like this article.Quite a beginning.
 
